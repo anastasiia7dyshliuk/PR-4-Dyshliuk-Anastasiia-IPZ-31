@@ -46,3 +46,5 @@ docker compose up -d --build
 ```bash
 docker compose down
 ```
+## Demo
+See `video-site` for a recorded demo of the working application.
